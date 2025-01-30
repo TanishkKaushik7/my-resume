@@ -7,7 +7,7 @@ function App() {
                 <h1>Tanishk Kaushik</h1>
                 <p>Oracle Certified Full Stack Developer</p>
                 <p>📧 tanishkkaushik079@gmail.com | 📍 India</p>
-                <p>📞 (91) 7303954527 | 🌐 github.com/tanishk</p>
+                <p>📞 (91) 7303954527 | 🌐<a href="https://github.com/TanishkKaushik7">github.com/TanishkKaushik7</a></p>
             </header>
             
             <section>
@@ -24,9 +24,6 @@ function App() {
             <section>
                 <h2>Skills</h2>
                 <ul>
-                    <li>HTML</li>
-                    <li>CSS</li>
-                    <li>JavaScript</li>
                     <li>React</li>
                     <li>Node.js</li>
                     <li>Figma</li>

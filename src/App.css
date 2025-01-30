@@ -50,7 +50,9 @@ p {
     color: #e3f2fd;
     font-size: 1em;
 }
-
+a{
+  text-decoration: none;
+}
 h2 {
     color: #90caf9;
     border-bottom: 2px solid rgba(255, 255, 255, 0.3);
