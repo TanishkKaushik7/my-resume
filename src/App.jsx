@@ -5,14 +5,14 @@ function App() {
         <div className="resume">
             <header>
                 <h1>Tanishk Kaushik</h1>
-                <p>Oracle Certified Full Stack Developer</p>
+                <p>Pregrad Certified Full Stack Developer</p>
                 <p>📧 tanishkkaushik079@gmail.com | 📍 India</p>
-                <p>📞 (91) 7303954527 | 🌐<a href="https://github.com/TanishkKaushik7">github.com/TanishkKaushik7</a></p>
+                <p>📞 (91) 7303954527 | 🌐<a href="https://github.com/TanishkKaushik7">github.com/Tanishk</a></p>
             </header>
             
             <section>
                 <h2>Summary</h2>
-                <p>Full Stack Developer with hands-on experience in web technologies like HTML, CSS, JavaScript, and React. Passionate about creating intuitive UI/UX designs and scalable web applications.</p>
+                <p>Full Stack Developer with hands-on experience in web technologies like HTML, CSS, JavaScript, React. Passionate about creating intuitive UI/UX designs and scalable web applications.</p>
             </section>
 
             <section>
@@ -26,7 +26,7 @@ function App() {
                 <ul>
                     <li>React</li>
                     <li>Node.js</li>
-                    <li>Figma</li>
+                    <li>Git</li>
                 </ul>
             </section>
 
